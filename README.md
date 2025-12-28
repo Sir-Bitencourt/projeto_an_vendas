@@ -28,8 +28,9 @@ Analisar a relação entre preço, desconto, categoria e avaliação dos cliente
 ## Relatório
 
 📄 O relatório completo pode ser encontrado em:
-`reports/analise_vendas_ecommerce_amazon.pdf`
+`public/pdfs/analise_vendas_ecommerce_amazon.pdf`
 
 ## Tecnologias
 
 Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
+
